@@ -1,0 +1,16 @@
+node_modules
+.tmp
+.cache
+.git
+.github
+build
+dist
+.env
+.env.*
+!.env.example
+.strapi
+.strapi-updater.json
+.strapi-cloud.json
+*.log
+Dockerfile
+docker-compose*.yaml
