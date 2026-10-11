@@ -18,10 +18,10 @@
       "required": true,
       "unique": true
     },
-    "number": {
+    "mobile": {
       "type": "string",
       "minLength": 10,
-      "maxLength": 10,
+      "maxLength": 64,
       "required": true,
       "unique": true
     },
