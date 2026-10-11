@@ -5,6 +5,7 @@
   "description": "A Strapi application",
   "scripts": {
     "build": "strapi build",
+    "build:image:push": "node scripts/build-image-push.mjs",
     "console": "strapi console",
     "deploy": "strapi deploy",
     "dev": "strapi develop",
